@@ -1,0 +1,9 @@
+/Users/kat/PycharmProjects/pythonProject/venv/bin/python /Users/kat/PycharmProjects/pythonProject/Assignment4.py
+                             10        100       1000       10000
+native_search             0.016212  0.051737  0.372887   3.596067
+linear_search             0.042200  0.158072  1.386642  14.084578
+binary_search_iterative   0.066757  0.104666  0.169992   0.249624
+binary_search_recursive   0.061989  0.107050  0.180244   0.329971
+randomized_binary_search  0.275850  0.600338  0.880241   1.399994
+
+Process finished with exit code 0
